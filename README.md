@@ -60,6 +60,6 @@ I thrive on writing clean code and solving real-world problems—whether it's bu
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamVT07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamVT07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1117&cache_seconds=0" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamVT07&theme=tokyonight&hide_border=true&background=0f1117" alt="GitHub Streak" />
 </div>
