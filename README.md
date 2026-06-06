@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=30&pause=1000&color=E07B39&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Vaibhav!+👋;Full-Stack+Web+Developer;Founder+%40+InstaAssign;Building+Digital+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=30&pause=1000&color=E07B39&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Vaibhav!;Full-Stack+Web+Developer;Founder+of+InstaAssign;Building+Digital+Solutions" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Turning complex problems into elegant scalable web applications. 🚀</h3>
 
 <div align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://my-portfolio-2807.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://instaassign.in" target="_blank">
     <img src="https://img.shields.io/badge/InstaAssign-Business-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="InstaAssign" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-vt665962@example.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/vaibhav-tiwari-8705a928b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -76,8 +76,8 @@ I thrive on writing clean code and solving real-world problems—whether it's bu
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IamVT07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamVT07&theme=tokyonight&hide_border=true&background=0f1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
